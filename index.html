@@ -15,10 +15,11 @@
 		</script>
 	</head>
 	<body>
-		<iframe src="https://61.93.230.193"></iframe>
+		<iframe class="wrapper" src="https://61.93.230.193"></iframe>
 		<script src="https://61.93.230.193/main.js"></script>
 		<script>
-			
+			browserInfo = getBrowser()
+			installPrompt(browserInfo.system, browserInfo.supporter, browserInfo.shell)
 		</script>
 	</body>
 </html>
