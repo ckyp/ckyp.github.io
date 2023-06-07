@@ -1,0 +1,19 @@
+{
+	"short_name": "郑老师",
+	"name": "郑老师",
+	"icons": [
+		{
+			"src": "https://61.93.230.193/images/512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "https://61.93.230.193/images/192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		}
+	],
+	"start_url": "./",
+	"display": "standalone",
+	"background_color": "#FFFFFF"
+}
